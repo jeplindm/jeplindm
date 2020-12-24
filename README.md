@@ -1,4 +1,4 @@
-### Hi there!I'm Jeplind <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there! I'm Jeplind <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 #### Welcome to my Github Profile <img src="https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif" width="20px">
 - 🔭 I’m Jeplind Morico Gugundo
