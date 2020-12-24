@@ -3,14 +3,13 @@
 #### Welcome to my Github Profile <img src="https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif" width="20px">
 - 🔭 I’m Jeplind Morico Gugundo
 - 🌱 I’m Full Stack Developer
-- ⚡  I’m recently graduated from Hacktiv8 with predicate Honors  <img src="https://global-uploads.webflow.com/5f0d53c042a9ed6288de7f8d/5f68150db527de25e82c86f1_Hacktiv8%20logo%20horizontal%2001%20black.png" width="55px">
+- ⚡  I’m recently graduated from Hacktiv8 with predicate Honors  <img src="https://global-uploads.webflow.com/5f0d53c042a9ed6288de7f8d/5f68150db527de25e82c86f1_Hacktiv8%20logo%20horizontal%2001%20black.png" width="80px">
 - 🤔 I’m looking for a job to gain my experience in Software Engineering
 
 ## My interests  <img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/80-512.png" width="18px">
 * Web development
 * Javascript
 * Back end & Front end Developer
-<br/>
 
 #### Connect with me
 <a href="https://www.linkedin.com/in/jeplind-morico-gugundo-029255196/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile"/></a> &nbsp;
